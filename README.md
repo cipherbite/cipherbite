@@ -130,7 +130,7 @@ Several tools that I used:
   <img align="center" alt="Apache" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="Bash" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Fedora" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
 </div>
