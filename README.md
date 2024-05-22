@@ -1,6 +1,16 @@
 # 🚀 Cipherbite Cybersecurity Portfolio 🚀
 
+![Header](https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
+
+---
+
 ## Hey 👋, I'm David Dylag
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%20Years%20in%20IT-blue" alt="IT Experience"/>
+  <img src="https://img.shields.io/badge/Specialty-Remote%20IT%20Support-blue" alt="Remote IT Support"/>
+  <img src="https://img.shields.io/badge/Fiber%20Optic%20Infrastructure-2%20Years-blue" alt="Fiber Optic Infrastructure"/>
+</p>
 
 I'm a dedicated professional specializing in remote IT support. I bring over three years of IT experience, coupled with two years working specifically in fiber optic infrastructure. My work centers on efficiently troubleshooting and resolving technical issues from a distance, ensuring that IT systems are functioning smoothly and effectively across different business units.
 
@@ -8,11 +18,18 @@ I'm a dedicated professional specializing in remote IT support. I bring over thr
 
 ## Professional Background 📜
 
-I have three years of experience in the IT field as remote IT support and two years specifically in fiber optic infrastructure.
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Field-3%20Years-blue" alt="3 Years in IT"/>
+  <img src="https://img.shields.io/badge/Fiber%20Optic-2%20Years-blue" alt="2 Years in Fiber Optic"/>
+</p>
 
 ---
 
 ## Portfolio 🗂️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certificate-Google%20Cybersecurity%20Professional%20Certificate-blue" alt="Google Cybersecurity Professional Certificate"/>
+</p>
 
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 
@@ -25,16 +42,29 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 
 Additionally, it has paved the way for me to pursue one of the following entry-level roles:
 
-- Cybersecurity Analyst
-- Security Analyst
-- SOC Analyst
-- Junior Penetration Tester
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue" alt="Cybersecurity Analyst"/>
+  <img src="https://img.shields.io/badge/Role-Security%20Analyst-blue" alt="Security Analyst"/>
+  <img src="https://img.shields.io/badge/Role-SOC%20Analyst-blue" alt="SOC Analyst"/>
+  <img src="https://img.shields.io/badge/Role-Junior%20Penetration%20Tester-blue" alt="Junior Penetration Tester"/>
+</p>
 
 ---
 
 ## Skills 💼
 
 ### Projects and Skills/Knowledge Gained
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Conduct%20a%20Security%20Audit-INFOSEC%2C%20NIST%20Framework%2C%20Security%20Audits-blue" alt="Conduct a Security Audit"/>
+  <img src="https://img.shields.io/badge/Network%20Security-TCP%2FIP%2C%20Network%20Architecture%2C%20Cloud%20Networks-blue" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Linux%20%26%20SQL-CLI%2C%20SQL%2C%20Bash-blue" alt="Linux & SQL"/>
+  <img src="https://img.shields.io/badge/Assets%2C%20Threats%20%26%20Vulnerabilities-Authentication%2C%20Vulnerability%20Assessment-blue" alt="Assets, Threats & Vulnerabilities"/>
+  <img src="https://img.shields.io/badge/Detection%20%26%20Response-Incident%20Lifecycle-blue" alt="Detection & Response"/>
+  <img src="https://img.shields.io/badge/Tcpdump%20%26%20Wireshark-Packet%20Analyzer-blue" alt="Tcpdump & Wireshark"/>
+  <img src="https://img.shields.io/badge/IDS%20%26%20SIEM-Suricata%2C%20Splunk-blue" alt="IDS & SIEM"/>
+  <img src="https://img.shields.io/badge/Automation%20with%20Python-Python%20Programming-blue" alt="Automation with Python"/>
+</p>
 
 1. **Conduct a Security Audit**
    - INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
@@ -66,16 +96,18 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 
 Several tools that I used:
 
-- Metasploit
-- Kali Linux
-- Virtualization
-- Wireshark
-- Linux OS
-- Burp Suite
-- Splunk
-- Cryptography
-- Python
-- JavaScript
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="Virtualization" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-plain.svg" alt="Burp Suite" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg" alt="Splunk" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptography/cryptography-original.svg" alt="Cryptography" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+</p>
 
 ---
 
@@ -140,14 +172,12 @@ Several tools that I used:
 
 ---
 
-## How to Reach Me 📬
-
-<div> 
-  <a href="https://www.youtube.com/@david_dylag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://www.youtube.com/c/DavidDylag" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/david_dylag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="*" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:david_dylag@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david_dylag/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</p>
 
 ---
