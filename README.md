@@ -1,5 +1,3 @@
----
-
 # 🚀 Cipherbite Cybersecurity Portfolio 🚀
 
 ---
@@ -31,8 +29,6 @@ I'm a dedicated professional specializing in remote IT support. I bring over thr
   <img src="https://img.shields.io/badge/Certificate-Google%20Cybersecurity%20Professional%20Certificate-blue" alt="Google Cybersecurity Professional Certificate"/>
 </p>
 
-## Portfolio 🗂️
-
 | Certificate | Google Cybersecurity Professional Certificate |
 |-------------|----------------------------------------------|
 | Portfolio   | I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into: |
@@ -51,10 +47,6 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 
 ---
 
-Certainly! Here's the updated section with the skills aligned from left to right:
-
----
-
 ## Skills 💼
 
 ### Projects and Skills/Knowledge Gained
@@ -70,22 +62,16 @@ Certainly! Here's the updated section with the skills aligned from left to right
   <img src="https://img.shields.io/badge/Automation%20with%20Python-Python%20Programming-blue" alt="Automation with Python"/>
 </p>
 
-Certainly! Here's the information organized in a table format, along with the relevant icons:
-
 | Skill Topic                      | Description                                                                                   | Icon                                                                                     |
 |----------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| **Conduct a Security Audit**     | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad                    | ![Security Audit](https://img.icons8.com/color/48/000000/security-checked.png)           |
-| **Network Security**             | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks                                           | ![Network Security](https://img.icons8.com/color/48/000000/network.png)                    |
-| **Linux & SQL**                  | Command-line Interface, SQL, Linux, Bash                                                      | ![Linux & SQL](https://img.icons8.com/color/48/000000/linux.png)                           |
-| **Assets, Threats & Vulnerabilities** | Authentication, Vulnerability Assessment, Cryptography, Asset Classification, Threat Modelling Analysis | ![Assets, Threats, & Vulnerabilities](https://img.icons8.com/color/48/000000/bomb.png) |
-| **Detection & Response**         | Incident Lifecycle, Incident Journal                                                          | ![Detection & Response](https://img.icons8.com/color/48/000000/bug.png)                   |
-| **Tcpdump & Wireshark**          | Packet Analyzer                                                                               | ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)           |
-| **IDS & SIEM**                   | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk                                        | ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)                              |
-| **Automation with Python**       | Computer Programming, Python Programming, Coding, PEP 8 Style Guide                            | ![Python](https://img.icons8.com/color/48/000000/python.png)                                |
-
-![Skills Table](https://i.imgur.com/5Zy2Q7x.png)
-
-Feel free to reach out if you have any other requests or need further assistance! 😊
+| **Conduct a Security Audit**     | Familiarity with INFOSEC and NIST Framework, expertise in conducting thorough security audits  | ![Security Audit](https://img.icons8.com/color/48/000000/security-checked.png)           |
+| **Network Security**             | Proficiency in TCP/IP model, designing secure network architectures, and managing cloud networks | ![Network Security](https://img.icons8.com/color/48/000000/network.png)                  |
+| **Linux & SQL**                  | Command-line Interface (CLI) mastery, adeptness in SQL, Linux, and Bash scripting           | ![Linux & SQL](https://img.icons8.com/color/48/000000/linux.png)                         |
+| **Assets, Threats & Vulnerabilities** | Deep understanding of authentication mechanisms, conducting vulnerability assessments, and implementing cryptographic solutions | ![Assets, Threats, & Vulnerabilities](https://img.icons8.com/color/48/000000/bomb.png)   |
+| **Detection & Response**         | Comprehensive knowledge of the incident lifecycle, adept in maintaining incident journals   | ![Detection & Response](https://img.icons8.com/color/48/000000/bug.png)                     |
+| **Tcpdump & Wireshark**          | Skilled in using packet analyzers like Tcpdump and Wireshark for network troubleshooting    | ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)           |
+| **IDS & SIEM**                   | Proficient with Intrusion Detection Systems (IDS) like Suricata and Security Information and Event Management (SIEM) tools like Splunk | ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)                              |
+| **Automation with Python**       | Expertise in Python programming for automating tasks and processes                           | ![Automation with Python](https://img.icons8.com/color/48/000000/python.png)               |
 
 ---
 
@@ -95,7 +81,7 @@ Several tools that I used:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux"height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="Virtualization" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" height="40" width="40"/>
@@ -124,6 +110,7 @@ Several tools that I used:
 | vksCTF            | Top 15%       | Solo played      | 09/2023   |
 
 ---
+
 
 ## Stats 📊
 
