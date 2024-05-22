@@ -1,4 +1,4 @@
-# 🚀 Cipherbite Cybersecurity Portfolio 🚀
+# 🚀 David's Portfolio 🚀
 
 ---
 
@@ -17,7 +17,7 @@ Hey there! I’m David, and I’ve been calling Krakow home for over 3 years. Wh
 ## Professional Background 📜
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Field-3%20Years-blue" alt="3 Years in IT"/>
+  <img src="https://img.shields.io/badge/IT Support%20> 3%20Years-blue" alt="3 Years in IT"/>
   <img src="https://img.shields.io/badge/Fiber%20Optic-2%20Years-blue" alt="2 Years in Fiber Optic"/>
 </p>
 
