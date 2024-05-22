@@ -1,7 +1,3 @@
-Here is the optimized and visually enhanced README file for your GitHub project, including visitor badges, professional background, portfolio, skills, tools, social media, and competitions. This format is inspired by the example provided:
-
----
-
 # Cipherbite-Cybersecurity-Portfolio
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio)
