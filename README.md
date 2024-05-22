@@ -81,7 +81,7 @@ Several tools that I used:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux"height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="Virtualization" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" height="40" width="40"/>
@@ -91,6 +91,8 @@ Several tools that I used:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
 </p>
+
+
 
 ---
 
