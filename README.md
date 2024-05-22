@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Fiber%20Optic%20Infrastructure-2%20Years-blue" alt="Fiber Optic Infrastructure"/>
 </p>
 
-I'm a dedicated professional specializing in remote IT support. I bring over three years of IT experience, coupled with two years working specifically in fiber optic infrastructure. My work centers on efficiently troubleshooting and resolving technical issues from a distance, ensuring that IT systems are functioning smoothly and effectively across different business units.
+Hey there! I’m David, and I’ve been calling Krakow home for over 3 years. When it comes to IT, my days are all about troubleshooting and resolving technical issues from a distance, ensuring that everything runs smoothly across different business units. I’m also a passionate learner, always exploring new technologies. And when I’m not involved in IT, I love hiking and combat sports. For almost two years, I've been into Cybersecurity and web3! 🖥️✨
 
 ---
 
