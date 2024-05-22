@@ -1,5 +1,6 @@
-# 🚀 Cipherbite Cybersecurity Portfolio 🚀
+---
 
+# 🚀 Cipherbite Cybersecurity Portfolio 🚀
 
 ---
 
@@ -30,14 +31,14 @@ I'm a dedicated professional specializing in remote IT support. I bring over thr
   <img src="https://img.shields.io/badge/Certificate-Google%20Cybersecurity%20Professional%20Certificate-blue" alt="Google Cybersecurity Professional Certificate"/>
 </p>
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+## Portfolio 🗂️
 
-- Programming for cybersecurity tasks
-- Frameworks and controls that inform security operations
-- SIEM tools for cybersecurity
-- Detecting and responding to incidents using an intrusion detection system
-- Performing packet capture and analysis
-- Web application penetration testing
+| Certificate | Google Cybersecurity Professional Certificate |
+|-------------|----------------------------------------------|
+| Portfolio   | I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into: |
+| Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing |
+| Roles       | - Cybersecurity Analyst<br>- Security Analyst<br>- SOC Analyst<br>- Junior Penetration Tester |
+
 
 Additionally, it has paved the way for me to pursue one of the following entry-level roles:
 
@@ -50,22 +51,7 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 
 ---
 
-## Skills 💼
-
-### Projects and Skills/Knowledge Gained
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Conduct%20a%20Security%20Audit-INFOSEC%2C%20NIST%20Framework%2C%20Security%20Audits-blue" alt="Conduct a Security Audit"/>
-  <img src="https://img.shields.io/badge/Network%20Security-TCP%2FIP%2C%20Network%20Architecture%2C%20Cloud%20Networks-blue" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Linux%20%26%20SQL-CLI%2C%20SQL%2C%20Bash-blue" alt="Linux & SQL"/>
-  <img src="https://img.shields.io/badge/Assets%2C%20Threats%20%26%20Vulnerabilities-Authentication%2C%20Vulnerability%20Assessment-blue" alt="Assets, Threats & Vulnerabilities"/>
-  <img src="https://img.shields.io/badge/Detection%20%26%20Response-Incident%20Lifecycle-blue" alt="Detection & Response"/>
-  <img src="https://img.shields.io/badge/Tcpdump%20%26%20Wireshark-Packet%20Analyzer-blue" alt="Tcpdump & Wireshark"/>
-  <img src="https://img.shields.io/badge/IDS%20%26%20SIEM-Suricata%2C%20Splunk-blue" alt="IDS & SIEM"/>
-  <img src="https://img.shields.io/badge/Automation%20with%20Python-Python%20Programming-blue" alt="Automation with Python"/>
-</p>
-
-Certainly! Here's the updated section with small icons for each topic:
+Certainly! Here's the updated section with the skills aligned from left to right:
 
 ---
 
@@ -84,40 +70,41 @@ Certainly! Here's the updated section with small icons for each topic:
   <img src="https://img.shields.io/badge/Automation%20with%20Python-Python%20Programming-blue" alt="Automation with Python"/>
 </p>
 
-1. **Conduct a Security Audit** ![Security Audit](https://img.icons8.com/color/48/000000/security-checked.png)
-   - INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
+Certainly! Here's the information organized in a table format, along with the relevant icons:
 
-2. **Network Security** ![Network Security](https://img.icons8.com/color/48/000000/network.png)
-   - TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
+| Skill Topic                      | Description                                                                                   | Icon                                                                                     |
+|----------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Conduct a Security Audit**     | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad                    | ![Security Audit](https://img.icons8.com/color/48/000000/security-checked.png)           |
+| **Network Security**             | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks                                           | ![Network Security](https://img.icons8.com/color/48/000000/network.png)                    |
+| **Linux & SQL**                  | Command-line Interface, SQL, Linux, Bash                                                      | ![Linux & SQL](https://img.icons8.com/color/48/000000/linux.png)                           |
+| **Assets, Threats & Vulnerabilities** | Authentication, Vulnerability Assessment, Cryptography, Asset Classification, Threat Modelling Analysis | ![Assets, Threats, & Vulnerabilities](https://img.icons8.com/color/48/000000/bomb.png) |
+| **Detection & Response**         | Incident Lifecycle, Incident Journal                                                          | ![Detection & Response](https://img.icons8.com/color/48/000000/bug.png)                   |
+| **Tcpdump & Wireshark**          | Packet Analyzer                                                                               | ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)           |
+| **IDS & SIEM**                   | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk                                        | ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)                              |
+| **Automation with Python**       | Computer Programming, Python Programming, Coding, PEP 8 Style Guide                            | ![Python](https://img.icons8.com/color/48/000000/python.png)                                |
 
-3. **Linux & SQL** ![Linux & SQL](https://img.icons8.com/color/48/000000/linux.png)
-   - Command-line Interface, SQL, Linux, Bash
-
-4. **Assets, Threats, & Vulnerabilities** ![Assets, Threats, & Vulnerabilities](https://img.icons8.com/color/48/000000/bomb.png)
-   - Authentication, Vulnerability Assessment, Cryptography, Asset Classification, Threat Modelling Analysis
-
-5. **Detection & Response** ![Detection & Response](https://img.icons8.com/color/48/000000/bug.png)
-   - Incident Lifecycle, Incident Journal
-
-6. **Tcpdump & Wireshark** ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)
-   - Packet Analyzer
-
-7. **IDS & SIEM** ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)
-   - Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk
-
-8. **Automation with Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
-   - Computer Programming, Python Programming, Coding, PEP 8 Style Guide
-
----
-
+![Skills Table](https://i.imgur.com/5Zy2Q7x.png)
 
 Feel free to reach out if you have any other requests or need further assistance! 😊
+
+---
 
 ## Tools 🛠️
 
 Several tools that I used:
 
-<p align=“center”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg” alt=“Metasploit” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg” alt=“Kali Linux” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg” alt=“Virtualization” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg” alt=“Wireshark” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“Linux OS” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-plain.svg” alt=“Burp Suite” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg” alt=“Splunk” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptography/cryptography-original.svg” alt=“Cryptography” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“Python” height=“40” width=“40”/> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg” alt=“JavaScript” height=“40” width=“40”/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-plain.svg" alt="Metasploit" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="Virtualization" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux OS" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-plain.svg" alt="Burp Suite" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg" alt="Splunk" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptography/cryptography-original.svg" alt="Cryptography" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+</p>
 
 ---
 
