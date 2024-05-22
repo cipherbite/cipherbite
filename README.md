@@ -1,23 +1,26 @@
+Here is the optimized and visually enhanced README file for your GitHub project, including visitor badges, professional background, portfolio, skills, tools, social media, and competitions. This format is inspired by the example provided:
+
+---
+
 # Cipherbite-Cybersecurity-Portfolio
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&left_text=MyPageVisitors)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&left_text=My%20Page%20Visitors)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&left_color=red&right_color=green)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&left_color=red&right_color=green&left_text=HelloVisitors)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&left_color=red&right_color=green&left_text=Hello%20Visitors)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio-query&query_only=true)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DavidDylag.CybersecurityPortfolio&format=true)
 
-## Professional Statements
+---
 
-Hello! I'm David Dylag, a dedicated professional specializing in remote IT support. I bring over three years of IT experience, coupled with two years working specifically in fiber optic infrastructure. My work centers on efficiently troubleshooting and resolving technical issues from a distance, ensuring that IT systems are functioning smoothly and effectively across different business units.
+## 🏆 Professional Statements
 
-## Professional Background
+Hello! I'm David Dylag, a dedicated professional specializing in remote IT support. I bring over three years of IT experience, coupled with two years specifically in fiber optic infrastructure. My work centers on efficiently troubleshooting and resolving technical issues from a distance, ensuring that IT systems are functioning smoothly and effectively across different business units.
+
+---
+
+## 🧑‍💻 Professional Background
 
 I have three years of experience in the IT field as remote IT support and two years specifically in fiber optic infrastructure.
 
-## Portfolio
+---
+
+## 📂 Portfolio
 
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 
@@ -35,7 +38,9 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 - SOC Analyst
 - Junior Penetration Tester
 
-## Skills
+---
+
+## 🛠 Skills
 
 ### Projects and Skills/Knowledge Gained
 
@@ -56,7 +61,9 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 8. **Automation with Python**
    - Computer Programming, Python Programming, Coding, PEP 8 Style Guide
 
-## Tools
+---
+
+## 🛠 Tools
 
 I have utilized several tools during my projects, including:
 
@@ -71,15 +78,46 @@ I have utilized several tools during my projects, including:
 - Python
 - JavaScript
 
-## Other References
+---
 
-Please have a look at other standalone portfolios that I have published:
+## 📡 Social Media
 
-- Python - Cybersecurity - [Bruteforce Zipfile](#)
-- Python - Cybersecurity - [Automation Case](#)
-- Python - Cybersecurity - [Transaction Fraud](#)
-- Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](#)
+Connect with me on Telegram for insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Join-blue)](https://t.me/your-telegram-username)
 
 ---
 
-This structure includes your professional statements, background, portfolio of skills, tools, and additional references while embedding the visitor badges with customization as required. Simply replace the placeholder URLs (`#`) with actual links to your projects.  
+## 🥇 Competitions
+
+### CTFs
+
+| CTF                  | Result         | Team               | Date       |
+|----------------------|----------------|--------------------|------------|
+| BSidesSF CTF         | top 10%        | movie43            | 05/24      |
+| CIT@CTF              | top 6%         | undermouses        | 04/2024    |
+| Space HeroesCTF      | top 23%        | check_your_mom     | 04/2024    |
+| swampCTF             | top 17%        | check_your_mouse   | 03/2024    |
+| wolvCTF              | top 31%        | undermouses        | 03/2024    |
+| ethernautCTF         | out of competition | solo          | 03/2024    |
+| osuCTF               | top 35%        | undermouses        | 02/2024    |
+| vksCTF               | top 15%        | Solo played        | 09/2023    |
+
+---
+
+## 🚀 Working on
+
+- Tweaking this README for optimal engagement
+- Fullstack web3 development course
+- Ethernaut tasks
+- Various bots and scripts, with results showcased here
+
+---
+
+## 🌐 Languages and Tools
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1  
