@@ -26,17 +26,16 @@ Hey there! I’m David, and I’ve been calling Krakow home for over 3 years. Wh
 ## Portfolio 🗂️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certificate-Google%20Cybersecurity%20Professional%20Certificate-blue" alt="Google Cybersecurity Professional Certificate"/>
+  <img src="https://img.shields.io/badge/Certificate-CompTIA%20Security%2B%20Certification-blue" alt="CompTIA Security+ Certification"/>
   <br>
-  I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification. This program has provided insights into:
+  I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification, performing bug bounty hunting, and completing a Web3 Security Course. These programs have provided insights into:
 </p>
 
 | Certificate | CompTIA Security+ Certification |
 |-------------|--------------------------------|
-| Portfolio   | I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification. This program has provided insights into: |
-| Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing<br>- **Web3 Development** |
-| Roles       | - Cybersecurity Analyst<br>- Security Analyst<br>- SOC Analyst<br>- Junior Penetration Tester |
-| Web3        | working on projects.... |
+| Portfolio   | I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification, performing bug bounty hunting, and completing a Web3 Security Course. These programs have provided insights into: |
+| Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing<br>- Bug bounty hunting<br>- Blockchain development, smart contract security, and decentralized applications (DApps)<br>- Web3 Security |
+| Roles       | - Cybersecurity Analyst<br>- Security Analyst<br>- SOC Analyst<br>- Junior Penetration Tester<br>- Bug Bounty Hunter<br> |
 
 Additionally, it has paved the way for me to pursue one of the following entry-level roles:
 
@@ -45,7 +44,7 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
   <img src="https://img.shields.io/badge/Role-Security%20Analyst-blue" alt="Security Analyst"/>
   <img src="https://img.shields.io/badge/Role-SOC%20Analyst-blue" alt="SOC Analyst"/>
   <img src="https://img.shields.io/badge/Role-Junior%20Penetration%20Tester-blue" alt="Junior Penetration Tester"/>
-  <img src="https://img.shields.io/badge/Role-Web3%20Developer-blue" alt="Web3 Developer (Empty)"/>
+  <img src="https://img.shields.io/badge/Role-Bug%20Bounty%20Hunter-blue" alt="Bug Bounty Hunter"/>
 </p>
 
 ---
@@ -105,8 +104,6 @@ Several tools that I used:
 
 ---
 
-Sure, here is the modified content including your pseudonym, completed HackTheBox modules, and additional details about your ranking and badges.
-
 ## Competitions 🥇
 
 ### HackTheBox (Pseudonym: Tarz)
@@ -156,15 +153,15 @@ Sure, here is the modified content including your pseudonym, completed HackTheBo
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Meetups & tech events.
 
 ---
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows, etc.
-- 🚀 &nbsp; I’m currently learning Offensive Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sammorozov).
+- 🛠 &nbsp; I’m currently working with Javascript, Linux, Python, Windows, etc.
+- 🚀 &nbsp; I’m currently learning Defensive Security.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cipherbite).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JavaScript.
 
 ---
