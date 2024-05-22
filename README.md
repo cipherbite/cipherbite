@@ -175,3 +175,5 @@ Several tools that I used:
 </p>
 
 ---
+
+<a target="_blank" rel="noopener noreferrer" href="/sammorozov/cipherbite/blob/main/assets/github-snake.svg" previewlistener="true"><img width="1000" src="/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
