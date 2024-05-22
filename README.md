@@ -27,14 +27,16 @@ Hey there! I’m David, and I’ve been calling Krakow home for over 3 years. Wh
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certificate-Google%20Cybersecurity%20Professional%20Certificate-blue" alt="Google Cybersecurity Professional Certificate"/>
+  <br>
+  I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification. This program has provided insights into:
 </p>
 
-| Certificate | Google Cybersecurity Professional Certificate |
-|-------------|----------------------------------------------|
-| Portfolio   | I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into: |
-| Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing |
+| Certificate | CompTIA Security+ Certification |
+|-------------|--------------------------------|
+| Portfolio   | I am developing a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the CompTIA Security+ certification. This program has provided insights into: |
+| Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing<br>- **Web3 Development** |
 | Roles       | - Cybersecurity Analyst<br>- Security Analyst<br>- SOC Analyst<br>- Junior Penetration Tester |
-
+| Web3        | working on projects.... |
 
 Additionally, it has paved the way for me to pursue one of the following entry-level roles:
 
@@ -43,9 +45,11 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
   <img src="https://img.shields.io/badge/Role-Security%20Analyst-blue" alt="Security Analyst"/>
   <img src="https://img.shields.io/badge/Role-SOC%20Analyst-blue" alt="SOC Analyst"/>
   <img src="https://img.shields.io/badge/Role-Junior%20Penetration%20Tester-blue" alt="Junior Penetration Tester"/>
+  <img src="https://img.shields.io/badge/Role-Web3%20Developer-blue" alt="Web3 Developer (Empty)"/>
 </p>
 
 ---
+
 
 ## Skills 💼
 
@@ -72,6 +76,7 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 | **Tcpdump & Wireshark**          | Skilled in using packet analyzers like Tcpdump and Wireshark for network troubleshooting    | ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)           |
 | **IDS & SIEM**                   | Proficient with Intrusion Detection Systems (IDS) like Suricata and Security Information and Event Management (SIEM) tools like Splunk | ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)                              |
 | **Automation with Python**       | Expertise in Python programming for automating tasks and processes                           | ![Automation with Python](https://img.icons8.com/color/48/000000/python.png)               |
+| **Web3/Blockchain**              | Working on blockchain bug bounty hunting tutorial & web3 related webpage                     | ![Web3/Blockchain](https://img.icons8.com/office/40/000000/blockchain-technology.png)    |
 
 ---
 
@@ -90,15 +95,21 @@ Several tools that I used:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cryptography/cryptography-original.svg" alt="Cryptography" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/truffle/truffle-plain.svg" alt="Truffle" height="40" width="40"/>
 </p>
-
-
 
 ---
 
+Sure, here is the modified content including your pseudonym, completed HackTheBox modules, and additional details about your ranking and badges.
+
 ## Competitions 🥇
 
-### HackTheBox
+### HackTheBox (Pseudonym: Tarz)
 
 | HackTheBox        | Result        | Team             | Date      |
 |-------------------|---------------|------------------|-----------|
