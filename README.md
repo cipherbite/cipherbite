@@ -37,7 +37,7 @@ Hey there! I’m David, and I’ve been calling Krakow home for over 3 years. Wh
 | Skills      | - Programming for cybersecurity tasks<br>- Frameworks and controls that inform security operations<br>- SIEM tools for cybersecurity<br>- Detecting and responding to incidents using an intrusion detection system<br>- Performing packet capture and analysis<br>- Web application penetration testing<br>- Bug bounty hunting<br>- Blockchain development, smart contract security, and decentralized applications (DApps)<br>- Web3 Security |
 | Roles       | - Cybersecurity Analyst<br>- Security Analyst<br>- SOC Analyst<br>- Junior Penetration Tester<br>- Bug Bounty Hunter<br> |
 
-Additionally, it has paved the way for me to pursue one of the following entry-level roles:
+Additionally, it has opened the way for me to pursue one of the following entry-level roles:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-blue" alt="Cybersecurity Analyst"/>
@@ -75,7 +75,7 @@ Additionally, it has paved the way for me to pursue one of the following entry-l
 | **Tcpdump & Wireshark**          | Skilled in using packet analyzers like Tcpdump and Wireshark for network troubleshooting    | ![Tcpdump & Wireshark](https://img.icons8.com/color/48/000000/network-card.png)           |
 | **IDS & SIEM**                   | Proficient with Intrusion Detection Systems (IDS) like Suricata and Security Information and Event Management (SIEM) tools like Splunk | ![IDS & SIEM](https://img.icons8.com/color/48/000000/bug.png)                              |
 | **Automation with Python**       | Expertise in Python programming for automating tasks and processes                           | ![Automation with Python](https://img.icons8.com/color/48/000000/python.png)               |
-| **Web3/Blockchain**              | Working on blockchain bug bounty hunting tutorial & web3 related webpage                     | ![Web3/Blockchain](https://img.icons8.com/office/40/000000/blockchain-technology.png)    |
+| **Web3/Blockchain**              | Working on projects related to blockchain development, smart contract security, and decentralized applications (DApps).                   | ![Web3/Blockchain](https://img.icons8.com/office/40/000000/blockchain-technology.png)    |
 
 ---
 
@@ -125,8 +125,8 @@ Several tools that I used:
 ## Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipherbite&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherbite&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </p>
 
 <div style="display: inline_block"><br>
