@@ -1,19 +1,19 @@
 ## Hello, World! 👋 I'm David Dylag
 
 ### About Me
-I'm an IT Technician 🎓 based in Poland 🇵🇱 with 4+ years of experience in the IT field. While I have a solid foundation in IT, my passion lies in building a decentralized future through blockchain development and cybersecurity 🛡️. I'm a lifelong learner who thrives on exploring new technologies and tackling real-world challenges 🧠. Outside of the tech world, you'll find me boxing or hiking 🥊🥾.
+I'm an IT Technician based in Poland with over four years of experience in the IT field. My expertise covers various facets of IT, but my true passion lies in blockchain development and cybersecurity. I'm dedicated to building a decentralized future and continually seek opportunities for growth. Outside of work, I find joy in boxing and hiking.
 
-### What Excites Me
-- **Securing Web3:** I actively participate in Capture The Flag (CTF) competitions 🕸️ and blockchain bug bounty programs to identify and address vulnerabilities.
-- **Empowering Through Tech:** I enjoy developing open-source tools and resources that benefit the information society and promote a more secure digital landscape. 
-- **Lifelong Learning:** I'm always expanding my skill set, with a recent focus on offensive security to better understand and mitigate potential threats.
+### What Drives Me
+- **Empowering Through Tech:** I actively contribute to the development of open-source tools and resources that bolster the security and efficiency of our digital world.
+- **Continual Growth:** I am committed to expanding my knowledge and skill set, always seeking to stay ahead in an ever-evolving tech landscape.
+- **Community Engagement:** I enjoy sharing insights and collaborating with like-minded professionals to tackle complex challenges in IT and beyond.
 
 ### My Tech Toolkit
-- **Languages:** Python 🐍, JavaScript, Solidity
+- **Languages:** Python, JavaScript, Solidity
 - **Blockchain:** Ethereum, Hardhat, Foundry
 - **Web Development:** HTML/CSS, React
-- **DevOps:** Linux 🐧, Bash, Docker
+- **DevOps:** Linux, Bash, Docker
 - **Security:** Penetration Testing, Vulnerability Assessment
 
 ### Let's Connect!
-I'm always open to collaboration, learning opportunities, and exchanging ideas. Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) or explore my repositories here on GitHub. Let's build a brighter and more secure future together! 🚀
+I'm eager to collaborate, learn, and exchange ideas with tech enthusiasts. Connect with me on [LinkedIn](LinkedIn) or explore my repositories here on GitHub. 
