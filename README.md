@@ -1,7 +1,6 @@
 # Hello, 👋 I'm David Dylag
 
 ## About Me
-🔍 Data Analyst with a passion for Cybersecurity
 🔐 4+ years experience in IT field, specializing in data-driven security solutions
 💡 Focused on: Data Analysis | Cybersecurity | Machine Learning for Security
 
